@@ -1,4 +1,4 @@
-# bella-verde-restaurantt
+# bella-verde-restaurant
 A modern,responsive restaurant website concept featuring interactive ui,menu sections, and reservatiom-focused design.
 
 ##Build with 
